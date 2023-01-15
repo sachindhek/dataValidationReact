@@ -1,0 +1,16 @@
+.main-div {
+    border: 2px solid black;
+    width: 30%;
+    margin: 2% 5% 5% 30%;
+    text-align: center;
+
+}
+
+.submitButton {
+    width: 30%;
+}
+
+.tableStyle {
+    width: 100%;
+    margin: 2% 5% 5% 10%;
+}
